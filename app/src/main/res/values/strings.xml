@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVPcat</string>
+    <string name="username">UserName:</string>
+    <string name="pwd">Password:</string>
+    <string name="login">login</string>
+    <string name="clear">clear</string>
+    <string name="error">Error...</string>
+</resources>
